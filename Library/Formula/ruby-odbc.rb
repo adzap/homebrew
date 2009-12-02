@@ -1,4 +1,4 @@
-require 'brewkit'
+require 'formula'
 
 class RubyOdbc < Formula
   @url='http://www.ch-werner.de/rubyodbc/ruby-odbc-0.9997.tar.gz'
