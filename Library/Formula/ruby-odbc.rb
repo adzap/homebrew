@@ -6,7 +6,7 @@ class RubyOdbc < Formula
   @md5='36d21519795c3edc8bc63b1ec6682b99'
 
   def install
-    system 'ruby extconf.rb', '--enable-dlopen'
+    system 'ruby extconf.rb'
     system 'make'
     system 'make install'
   end
