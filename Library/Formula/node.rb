@@ -1,7 +1,7 @@
 require 'formula'
 
 class Node <Formula
-  url 'http://s3.amazonaws.com/four.livejournal/20091219/node-v0.1.22.tar.gz'
+  url 'http://github.com/ry/node/tarball/v0.1.22'
   head 'git://github.com/ry/node.git'
   homepage 'http://nodejs.org/'
   md5 '0cfff2bf4811ab0d0cc5d4db1afe9e2b'
