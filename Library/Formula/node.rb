@@ -4,7 +4,7 @@ class Node <Formula
   url 'http://github.com/ry/node/tarball/v0.1.22'
   head 'git://github.com/ry/node.git'
   homepage 'http://nodejs.org/'
-  md5 '0cfff2bf4811ab0d0cc5d4db1afe9e2b'
+  md5 '1fc16b7a813a99f5889710a75c130c84'
 
   aka 'node.js'
 
